@@ -1,0 +1,4 @@
+{
+	"dataPath": "./",
+	"connectionString": "Data Source=[DATABASE_IP];Initial Catalog=GameDB;Encrypt=False;User Id=sqlserver;Password=sqlserver;"
+}
